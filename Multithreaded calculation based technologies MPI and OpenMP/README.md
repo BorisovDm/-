@@ -1,2 +1,5 @@
-# Multithreaded-calculation-based-technologies-MPI-and-OpenMP
-Autumn 2016, Khokhlov N.I., Department of Computational Mathematics and Informatics MIPT
+# Многопоточные вычисления на основе технологий MPI и OpenMP
+
+Преподаватель - канд. физ.-мат. наук Хохлов Н.И.
+Кафедра информатики и вычислительной математики МФТИ
+2016-2017 учебный год
