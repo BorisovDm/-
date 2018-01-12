@@ -1,2 +1,7 @@
-# Multithreaded-calculation-based-technologies-MPI-and-OpenMP
-Autumn 2016, Khokhlov N.I., Department of Computational Mathematics and Informatics MIPT
+# Современные технологии объектно-ориентированного программирования численных методов
+
+Преподаватель - Карпаев А.А.
+
+Кафедра информатики и вычислительной математики МФТИ
+
+2016-2017 учебный год
